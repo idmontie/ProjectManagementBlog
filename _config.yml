@@ -18,7 +18,7 @@ name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
 author_image: "/assets/images/author.jpg"
 
-permalink: /post/:title
+permalink: /project-management-blog/post/:title
 paginate:	5
 
 url: "https://idmontie.github.io/project-management-blog/" # the base hostname & protocol for your site
