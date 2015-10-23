@@ -18,11 +18,12 @@ name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
 author_image: "/assets/images/author.jpg"
 
-permalink: "http://idmontie.github.io/project-management-blog/post/:title"
+permalink: /post/:title
 paginate:	5
 
-url: "http://idmontie.github.io/project-management-blog/" # the base hostname & protocol for your site
-baseurl: "http://idmontie.github.io/project-management-blog/"
+url: "https://idmontie.github.io/project-management-blog/" # the base hostname & protocol for your site
+baseurl: "https://idmontie.github.io/project-management-blog/"
+baseUrl: "https://idmontie.github.io/project-management-blog/"
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
 
