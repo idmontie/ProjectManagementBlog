@@ -7,10 +7,9 @@ tags: scrum
 image:
 ---
 
-[Reading Material](http://www.orchestrate.com/blog/scrum-master-leader-from-inception-to-execution/)
+Scrum aims to minimize risk while also providing a *sustainabile* tempo of continuous delivery.
 
-Scrum aims to minimize risk while also providing a *sustainabile*
-temp of continuous delivery.
+[Reading Material](http://www.orchestrate.com/blog/scrum-master-leader-from-inception-to-execution/)
 
 1. A rhythm of continuous delivery
 2. Deliver working products with every cycle for review and revision
