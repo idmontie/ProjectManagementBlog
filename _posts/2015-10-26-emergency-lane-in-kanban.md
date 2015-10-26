@@ -17,6 +17,6 @@ If the development section of the pipeline has three tasks in its In Progress se
 
 That's where a "Swimlane" comes into play.
 
-![http://i.stack.imgur.com/TgEyH.png](Swimlane Kanban)
+![Swimlane Kanban](http://i.stack.imgur.com/TgEyH.png)
 
 An emergency swim lane of 1 task is added to the kanban board. Only critical, emergency tasks are allowed in the emergency swim lane and only 1 task is allowed at a time. Stakeholders must decide which problems are most critical if there are many emergency tasks. The lane must also be watched closely so that stakeholders do not use it as a loophole around the Kanban system.
