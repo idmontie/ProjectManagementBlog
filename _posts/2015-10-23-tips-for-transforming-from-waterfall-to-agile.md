@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips for Transforming from Waterfall to Agile Software Development notes"
 date:   2015-10-23 15:06:00
-categories: agile waterfall
+categories: agile-vs-waterfall
 tags: scrum
 image:
 ---
