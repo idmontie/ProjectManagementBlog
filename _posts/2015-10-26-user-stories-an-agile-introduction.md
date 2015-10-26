@@ -48,5 +48,34 @@ Mike Cohn in *User Stories Applied* suggests a fmore formal approach too writing
 
 User stories affect the following planning process on agile projects:
 
-1. **Scheduling**: 
-2. **Estimating**:
+1. **Scheduling**: The priority assigned to each story affects when the work will be done to implement that requirement. Project Stakeholders are responsible for prioritizing requrements. **MSCW** (aka MoSCoW) - Must Should Could Won't. Stakeholders can define new requirements, but also must be responsible for making decisions and providing information in a timely manner.
+2. **Estimating**: Developers are responsible for estimating the effor required to implement the things which they will work on. The size of the work items will affect when those items will be addressed. Large stories, aka **epics**, require being broken up into smaller stories in order for estimating to happen.
+
+Working items that are high priority, and therefor at the top of the backlog should have much greater detail than those that are low priority or at the bottom of the queue.
+
+## User Story Life Cycle
+
+There are several distinct "phases" or **seasons** in the life cycle.
+
+1. **Inception**: You create a stack of user stories during the requiremetns envisioning activities to identify the scope of your system.
+2. **Construction**: Identify new stories, split existing stories, reprioritize existing stories, remove stories, etc. Stories evolve over time.
+3. **Transition**: New stories will be identified during the transition stage (when a release is deployed). The focus of release is on hardening the system and not on new functionality.
+
+## Detailing a User Story
+
+User stories contain very little information. There are three common times when user stories are fleshed out:
+
+1. **During just-in-time analysis/model storming with stakeholders**: Explore the details behind that user story. Create screen sketches with stakeholders to explore what they want. Identify acceptance criteria, or confirmations, which the stakeholders will user to validte that the user story has been implemented correctly.
+2. **During iteration planning**: As part of the estimation effort, it is quite common to list programming tasks required to implement the user story.
+3. **During implementation**: When you start work on implementing the user story, you may decide to create flow charts, UML activity diagrams, etc.
+
+
+## Epics
+
+Large stories are called epics, and are usually too big to implement in a single sprint. Therefore, they need to be disaggregated into smaller user stories.
+
+Epics are usually low priority; as the epic moves up the backlog, it is fleshed out and reorganized into smaller tasks. Don't invest time on low priority epics, which may change in the future. That's the whole point of just-in-time basis.
+
+## Themes
+
+A theme is a cllection of related user stories. Themes are often used to organize stories into releases.
