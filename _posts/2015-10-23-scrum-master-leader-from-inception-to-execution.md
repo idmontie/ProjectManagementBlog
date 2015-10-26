@@ -2,7 +2,7 @@
 layout: post
 title:  "Scrum Master: Leader from Inception to Execution Notes"
 date:   2015-10-23 13:59:00
-categories: scrum master
+categories: scrum
 tags: scrum
 image:
 ---
