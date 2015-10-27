@@ -27,3 +27,8 @@ During the Sprint:
 * Quality goals do not decrease
 * Scope may be clarified and renegotiated between the Product Owner and Development Team as more is learned
 
+Each Sprint is like a project: there is a clear start and end, with a specific goal and Increment.
+
+Sprints are limited to one calendar month, but most organizations are using two week Sprints.
+
+Sprints help enable predictability by ensuring regular inspection and adaption of progress toward a Sprint Goal.
