@@ -32,3 +32,21 @@ Empiricism is the name of the game. All decisions should be based on data. The p
 
 ### Transparency
 
+Observers should share a common understanding of what is being seen and what is happening.
+
+### Inspection
+
+Inspect Scrum artifacts frequently and progress toward a Sprint Goal. Inspections are most beneficial when diligently performed.
+
+### Adaptation
+
+The process or material being processed must be adjisted if one or more aspects of the Scrum process deviate outside of acceptable limits.
+
+There are four (4) formal events for inspection and adaptation:
+* Sprint Planning
+* Daily Scrum
+* Sprint Review
+* Sprint Retrospective
+
+## The Scrum Team
+
