@@ -43,6 +43,7 @@ Inspect Scrum artifacts frequently and progress toward a Sprint Goal. Inspection
 The process or material being processed must be adjisted if one or more aspects of the Scrum process deviate outside of acceptable limits.
 
 There are four (4) formal events for inspection and adaptation:
+
 * Sprint Planning
 * Daily Scrum
 * Sprint Review
@@ -79,6 +80,7 @@ The **Development Team** consists of individuals who work on incremental "Done" 
 The Team self-organizes and manages their own work.
 
 Development Teams have the following characteristics:
+
 * Self-organizing - No one, and I mean no one, tells the Development Team how to turn Product Backlog tasks into Increments. Not even the Scrum Master
 * Cross-functional - The team should have all the skills necessary to create a product Increment.
 * No titles - There are no titles for Development Team members other than Developer. No exceptions.
@@ -96,6 +98,7 @@ The **Scrum Master** is responsible for ensuring Scrum is understood and enacted
 The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside of the Scrum Team understand their interactions with the Scrum Team.
 
 The Scrum Master serves the Product Owner in the following ways:
+
 * Finding techniques for effective Product Backlog management
 * Helping the Scrum Team understand the need for clear and concise Product Backlog items
 * Understanding product planning in an empirical environment
@@ -104,6 +107,7 @@ The Scrum Master serves the Product Owner in the following ways:
 * Facilitating Scrum events as requested or needed
 
 The Scrum Master serves the Development Team in the following ways:
+
 * Coaching the Development Team in self-organization and cross-functionality
 * Helping the Development Team create high-value products
 * Removing impediments to the Development Team's progress
@@ -111,8 +115,11 @@ The Scrum Master serves the Development Team in the following ways:
 * Coaching the Development Team in organizational environments in which Scrum is not fully adopted
 
 The Scrum Master serves the organization in several ways, including:
+
 * Leading and coaching the organization in its Scrum adoption
 * Planning Scrum implementations within the organization
 * Helping employees and stakeholders understand and enact Scrum and empirical product development
 * Causing change that increases the productivity of the Scrum Team
 * Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization
+
+[Continued...](http://idmontie.github.io/project-management-blog/scrum/2015/10/27/the-scrum-guide-continued.html)
