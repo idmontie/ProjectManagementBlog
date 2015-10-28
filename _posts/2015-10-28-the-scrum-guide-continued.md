@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Daily Scrum and Sprints - The Scrum Guide Continued"
-date:   2015-10-27 11:19:00
+date:   2015-10-28 1:00:00
 categories: scrum
 tags: scrum
 image:
