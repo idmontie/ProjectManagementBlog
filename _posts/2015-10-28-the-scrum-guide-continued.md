@@ -46,3 +46,26 @@ The following elements are part of the Sprint Review:
 * The Product Owner discusses the Product Backlog as it stands; projects likely completion dates based on the progress to date
 * The entire group collaborates on what to do next, so that the Sprint Review provides valuable input into the next Sprint Planning
 * Review of how the marketplace or potential use of the product might have changed what is the most valuable thing to do next
+* Review of the timeline, budget, potential capabilities, and marketplace for the next anticipated release of the product
+
+## Sprint Retropective
+
+The **Sprint Retrospective** is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint.
+
+The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning.
+
+It is time-boxed to 3 hours for 1 month Sprints. Or about 1 to 2 hours for two week Sprints.
+
+The Scrum Master ensures that the event takes place ad that attendants understand its purpose. The Scrum Master teaches all to keep it within the time-box. The Scrum Master participates as a peer team member in the meeting from the accountability over the Scrum process.
+
+The purpose of the Sprint Retrospective is to:
+
+* Inspect how the last Sprint went with regards to people, relationships, process, and tools
+* Identify and order the major items that went well and potential improvements
+* Create a plan for implementing improvements to the way the Scrum Team does its work
+
+The Scrum Master encourages the Scrum team to improve its development process and practices to make it more effective.
+
+The Scrum Team plans ways to increase product quality by adapting the definition of "Done" as appropriate.
+
+The Scrum Team should identify improvements that will be implemented in the next Sprint.
