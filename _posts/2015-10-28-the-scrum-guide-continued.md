@@ -43,4 +43,6 @@ The following elements are part of the Sprint Review:
 * The Product Owner explains what Product Backlog items have been "Done" and what has not been "Done"
 * The Development Team discusses what went well during the Sprint, what problems it ran into, and how those problems were solved
 * The Development Team demonstrates the work that it has "Done" and answers questions about the Increment
-
+* The Product Owner discusses the Product Backlog as it stands; projects likely completion dates based on the progress to date
+* The entire group collaborates on what to do next, so that the Sprint Review provides valuable input into the next Sprint Planning
+* Review of how the marketplace or potential use of the product might have changed what is the most valuable thing to do next
