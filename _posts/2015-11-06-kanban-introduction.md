@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Kanaban"
+title: "Introduction to Kanban"
 layout: post
 date:   2015-11-06 11:55:00
 categories: kanban
