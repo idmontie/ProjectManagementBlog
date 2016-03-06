@@ -10,7 +10,7 @@ description: >
   The road to Scrum
 
 url: http://idmontie.github.io/ProjectManagementBlog/
-baseurl: /project-management-blog
+baseurl: /ProjectManagementBlog
 
 #blog logo
 logo: "http://idmontie.github.io/ProjectManagementBlog/assets/images/logo.png"
