@@ -9,13 +9,13 @@ title: "Project Management Blog"
 description: >
   The road to Scrum
 
-url: http://idmontie.github.io/project-management-blog/
+url: http://idmontie.github.io/ProjectManagementBlog/
 baseurl: /project-management-blog
 
 #blog logo
-logo: "http://idmontie.github.io/project-management-blog/assets/images/logo.png"
+logo: "http://idmontie.github.io/ProjectManagementBlog/assets/images/logo.png"
 # blog cover
-cover: "http://idmontie.github.io/project-management-blog/assets/images/laptop-background.jpg"
+cover: "http://idmontie.github.io/ProjectManagementBlog/assets/images/laptop-background.jpg"
 
 name: 'Ivan Montiel'
 author: 'Ivan Montiel'
